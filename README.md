@@ -1,2 +1,2 @@
 # MicronOctopusConfig
-Micron fonfig files for Octopus 1.0
+Micron config files for Octopus 1.0
