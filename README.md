@@ -1,2 +1,2 @@
 # MicronOctopusConfig
-Micron config files for Octopus 1.0
+Work in process Micron config files for Octopus 1.0
